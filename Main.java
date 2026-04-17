@@ -5,7 +5,7 @@ public class Main {
         System.out.println("hi inighobenjamin");
     }
 
-public static void println(String message){
-    System.out.println("oooo");
-}
+    public static void println(String message) {
+        System.out.println("ooo");
+    }
 }
